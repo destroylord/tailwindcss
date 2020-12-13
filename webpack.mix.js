@@ -16,6 +16,7 @@ require('laravel-mix-purgecss');
 
 mix.js('src/js/app.js', 'public/js')
     .sass('src/sass/app.scss', 'public/css')
+    .sass('src/sass/style.scss', 'public/css')
  
     .options({
         processCssUrls: false,

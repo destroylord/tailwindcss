@@ -108,15 +108,27 @@
 
 /***/ }),
 
+/***/ "./src/sass/style.scss":
+/*!*****************************!*\
+  !*** ./src/sass/style.scss ***!
+  \*****************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!*************************************************!*\
-  !*** multi ./src/js/app.js ./src/sass/app.scss ***!
-  \*************************************************/
+/*!***********************************************************************!*\
+  !*** multi ./src/js/app.js ./src/sass/app.scss ./src/sass/style.scss ***!
+  \***********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! C:\Users\Destroyer\Documents\tailwindcss\src\js\app.js */"./src/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Destroyer\Documents\tailwindcss\src\sass\app.scss */"./src/sass/app.scss");
+__webpack_require__(/*! C:\Users\Destroyer\Documents\tailwindcss\src\sass\app.scss */"./src/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\Users\Destroyer\Documents\tailwindcss\src\sass\style.scss */"./src/sass/style.scss");
 
 
 /***/ })
