@@ -49,7 +49,7 @@ Terima kasih telah memberikan kesempatan untuk membagi pengalaman saya tentang k
         .purgeCss()
         .setPublicPath('public');
 * Langkah selanjutnya buat konfigurasi Tailwindcss dengan perintah :
-<br>
+
     ```npm tailwind init```
 
 * Kemuduian taruh script ini di src/scss/style.scss :
