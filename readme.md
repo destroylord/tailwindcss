@@ -12,9 +12,9 @@ Terima kasih telah memberikan kesempatan untuk membagi pengalaman saya tentang k
 
 ## Daftar isi
 
-1. Installasi laravel-mix
-2. installasi tailwindcss
-3. Browser Support
+1. [Installasi laravel-mix](Installasi laravel-mix)
+2. [installasi tailwindcss](installasi tailwindcss)
+3. [Browser Support](Browser Support)
 
 ##  1. Installasi laravel-mix
 
