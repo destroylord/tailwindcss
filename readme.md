@@ -27,7 +27,7 @@ Terima kasih telah memberikan kesempatan untuk membagi pengalaman saya tentang k
 
 * Copy script dibawah ini dan paste di terminal anda.
   
-  ```npm install tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9```
+  ```npm install tailwindcss@latest postcss@latest autoprefixer@latest```
   
 * Lanjut ketahap berikutnya, kemudian install purgeCSS untuk laravel-mix
   
@@ -61,7 +61,7 @@ Terima kasih telah memberikan kesempatan untuk membagi pengalaman saya tentang k
     ```@import "tailwindcss/utilities";```
 * Terakhir jalankan perintah ini diterminal anda :
 
-    ```npx run dev``` / ```npx run watch```
+    ```npx mix``` / ```npx mix watch```
 
 ##  3. Browser Support
 Working ke semua browser : 
