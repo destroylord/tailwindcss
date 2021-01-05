@@ -18,7 +18,7 @@ Terima kasih telah memberikan kesempatan untuk membagi pengalaman saya tentang k
 
 ##  1. Installasi laravel-mix
 
-* Untuk installasi laravel mix bisa ikuti dokumentasi website resminya [di sini.](https://laravel-mix.com/docs/5.0/installation) 
+* Untuk installasi laravel mix bisa ikuti dokumentasi website resminya [di sini.](https://laravel-mix.com/docs/6.0/installation) 
 * Setelah installasi selesai kita tahap installasi tailwindcss
 
 ##  2. Installasi Tailwindcss
