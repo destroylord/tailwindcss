@@ -50,7 +50,7 @@ Terima kasih telah memberikan kesempatan untuk membagi pengalaman saya tentang k
         .setPublicPath('public');
 * Langkah selanjutnya buat konfigurasi Tailwindcss dengan perintah :
 
-    ```npm tailwind init```
+    ```npx tailwind init```
 
 * Kemuduian taruh script ini di src/scss/style.scss :
 
@@ -61,7 +61,7 @@ Terima kasih telah memberikan kesempatan untuk membagi pengalaman saya tentang k
     ```@import "tailwindcss/utilities";```
 * Terakhir jalankan perintah ini diterminal anda :
 
-    ```npm run dev``` / ```npm run watch```
+    ```npx run dev``` / ```npx run watch```
 
 ##  3. Browser Support
 Working ke semua browser : 
